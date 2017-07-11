@@ -1,2 +1,2 @@
-# u20
-Unit 20 Client Side Customisation
+# U20 Client Side Customisation
+Sample CSS and JS to assist with U20.
